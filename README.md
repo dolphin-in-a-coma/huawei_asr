@@ -1,2 +1,2 @@
 # huawei_asr
-Materials from huawei speech recognition intership
+Open materials from huawei speech recognition intership
